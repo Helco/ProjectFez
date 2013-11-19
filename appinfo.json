@@ -1,0 +1,34 @@
+{
+  "uuid": "16b10191-a0d0-47af-902b-7e3c8e9392a3",
+  "shortName": "ProjectFez",
+  "longName": "ProjectFez",
+  "companyName": "Helco",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+	{
+	 "menuIcon" : true,
+	 "type":"png",
+	 "name":"IMAGE_MENU_ICON",
+	 "file":"images/fezicon.png"
+	},
+	{
+	 "type":"png",
+	 "name":"IMAGE_FEZ",
+	 "file":"images/fez.png"
+	},
+	{
+	 "type":"png",
+	 "name":"IMAGE_FEZ_SMALL",
+	 "file":"images/fezsmall.png"
+	}
+    ]
+  }
+}
